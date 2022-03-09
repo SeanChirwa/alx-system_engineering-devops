@@ -54,3 +54,14 @@ Your script file should contain maximum 64 characters
 Script 13:  a script that prints a number with two decimal places, followed by a new line.
 
 The number will be stored in the environment variable NUM.
+
+Script 14:  script that converts a number from base 10 to base 16.
+
+The number in base 10 is stored in the environment variable DECIMAL
+The script should display the number in base 16, followed by a new line
+
+Script 15: a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+
+Script 16:  a script that prints every other line from the input, starting with the first line.
+
+Script 17:  script that adds the two numbers stored in the environment variables WATER and STIR and prints the result
